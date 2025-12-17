@@ -36,12 +36,11 @@ customer purchase patterns through interactive visualizations.
 - Insights into customer purchasing behavior
 
 ---
-
 ## 📂 Repository Structure
--Dashboard/ → Power BI dashboard (.pbix)
--Dataset/ → Raw coffee shop sales dataset
--SQL/ → SQL script used for data cleaning
--Screenshots/ → Dashboard screenshots
+- Dashboard/ → Power BI dashboard (.pbix)
+- Dataset/ → Raw coffee shop sales dataset
+- SQL/ → SQL script used for data cleaning
+- Screenshots/ → Dashboard screenshots
 
 ---
 
