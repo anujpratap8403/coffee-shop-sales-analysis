@@ -36,6 +36,17 @@ customer purchase patterns through interactive visualizations.
 - Insights into customer purchasing behavior
 
 ---
+
+## 📸 Dashboard Screenshots
+
+### 🔹 Overall Dashboard View
+![Dashboard Overview](Screenshots/overview.jpg)
+
+### 🔹 Calendar Heat Map with Tooltip
+![Tooltip View](Screenshots/active_tooltip.jpg)
+
+
+---
 ## 📂 Repository Structure
 - Dashboard/ → Power BI dashboard (.pbix)
 - Dataset/ → Raw coffee shop sales dataset
