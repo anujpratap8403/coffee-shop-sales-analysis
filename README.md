@@ -40,7 +40,7 @@ customer purchase patterns through interactive visualizations.
 ## 📸 Dashboard Screenshots
 
 ### 🔹 Overall Dashboard View
-![Dashboard Overview](Screenshots/overview.jpg)
+![Dashboard Overview](Screenshots/overview .jpg)
 
 ### 🔹 Calendar Heat Map with Tooltip
 ![Tooltip View](Screenshots/active_tooltip.jpg)
